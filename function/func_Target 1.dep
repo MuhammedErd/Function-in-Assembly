@@ -1,0 +1,3 @@
+Dependencies for Project 'func', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x5AF497AB)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil\ARM\CMSIS\Include" -I "C:\Keil\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\func.s)(0x5AF49EF2)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil\ARM\CMSIS\Include" -I "C:\Keil\ARM\INC\Philips" --list "func.lst" --xref -o "func.o" --depend "func.d")

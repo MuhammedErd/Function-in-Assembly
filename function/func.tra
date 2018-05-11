@@ -1,0 +1,19 @@
+*** Creating Trace Output File 'func.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"func.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "startup.o" "func.o" --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x40000000 --strict --autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\func.map" -o "func.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'func.axf'
+### ADS-LD Command File: 'func.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'func.lnp', Handle=0x000001B4
+### Writing '.lnp' file
+### ADS-LD Command file 'func.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
